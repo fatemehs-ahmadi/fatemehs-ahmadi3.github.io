@@ -2,7 +2,7 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
+alt = Fatemeh S. Ahmadi
 Fatemeh S. Ahmadi
 Web developer
 
@@ -12,13 +12,13 @@ Email
 richard@example.com
 
 Phone
-+1 (213) 352-2795
++98 9309510833
 
 Birthday
 June 23, 1982
 
 Location
-Sacramento, California, USA
+Tehran, Iran
 
 # navbar
 
